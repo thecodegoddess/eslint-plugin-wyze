@@ -12,13 +12,13 @@ module.exports = {
   configs: {
     recommended: {
       rules: {
-        'wyze/func-call-arg-spacing': 'error',
-        'wyze/func-params-spacing': 'error',
-        'wyze/max-file-length': 'error',
-        'wyze/newline-after-export': 'error',
-        'wyze/sort-destructuring-keys': 'error',
-        'wyze/sort-imports': 'error',
-        'wyze/space-around-conditional': 'error',
+        'wyze-update/func-call-arg-spacing': 'error',
+        'wyze-update/func-params-spacing': 'error',
+        'wyze-update/max-file-length': 'error',
+        'wyze-update/newline-after-export': 'error',
+        'wyze-update/sort-destructuring-keys': 'error',
+        'wyze-update/sort-imports': 'error',
+        'wyze-update/space-around-conditional': 'error',
       },
     },
   },
